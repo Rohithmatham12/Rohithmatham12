@@ -38,7 +38,7 @@
 ## 🔥 Git Streak
 <br>
 <p align="center">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohith's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohithmatham12&theme=CalmAzure&hide_border=true"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohith's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohithmatham12&theme=Blue&hide_border=true"/>
 </p>
 
 
