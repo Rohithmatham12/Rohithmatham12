@@ -11,7 +11,7 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://twitter.com/MathamRohith"><img width="32px" alt="Twitter" title="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
+  &#0B5394;&#0B5394;&#0B5394;&#0B5394;&#0B5394;
   <a href="https://www.linkedin.com/in/rohith-matham/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/Uvu6oiS.png"/></a>
 </p>
 
