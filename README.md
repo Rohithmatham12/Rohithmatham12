@@ -11,7 +11,7 @@
 <!-- Social icons section -->
 <p align="center">
   <a href="https://twitter.com/MathamRohith"><img width="32px" alt="Twitter" title="Twitter" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png"/></a>
-  &#0B5394;&#0B5394;&#0B5394;&#0B5394;&#0B5394;
+  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://www.linkedin.com/in/rohith-matham/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/Uvu6oiS.png"/></a>
 </p>
 
@@ -31,7 +31,7 @@
 <br>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt=Rohith's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rohithmatham12&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
+    <img alt=Rohith's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Rohithmatham12&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=0B5394&icon_color=F8D866" />
   </a>
 </p>
 
