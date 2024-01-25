@@ -26,7 +26,7 @@
   <a href="https://github.com/starkworld/Stock-Analyzer"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starkworld&repo=Stock-Analyzer&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="Stock Analyzer"></a>
   <a href="https://github.com/starkworld/Reddit-Stock-Trends"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=starkworld&repo=Reddit-Stock-Trends&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=true" alt="Reddit Stock Trends"></a>
 </p> -->
-
+<!--
 ## 📊 Github Stats
 <br>
 <p align="center">
@@ -40,7 +40,7 @@
 <p align="center">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Rohith's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Rohithmatham12&theme=Blue&hide_border=true"/>
 </p>
-
+-->
 
 <!--
 **starkworld/starkworld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
